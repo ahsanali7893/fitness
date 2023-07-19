@@ -21,9 +21,9 @@ const Home = ({ setSelectedPage }: Props) => {
       <motion.div className="mx-auto w-5/6 items-center justify-center md:flex md:h-5/6"
       onViewportEnter={()=> setSelectedPage(SelectedPage.Home)}
       >
-        {/* main heading */}
+       
         <div className="z-10 mt-32 md:basis-3/5">
-          {/* heading* */}
+          
           <motion.div
            className="md:mt-20"
            initial="hidden"

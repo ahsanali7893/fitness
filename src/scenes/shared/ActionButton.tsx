@@ -1,4 +1,3 @@
-import React, { Children } from "react";
 import { SelectedPage } from "./types";
 import AnchorLink from "react-anchor-link-smooth-scroll";
 
